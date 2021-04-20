@@ -2,7 +2,7 @@
 
 "Economists and jurists" is a project of prosoprographical study of economists and jurists from XIXth century to now. 
 
-We will realize that by taking datas from **[DBpedia](https://www.dbpedia.org/)**, **[Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page)** and **[BnF Data](https://data.bnf.fr/)** then merger them. The final goal is obtain a database on these populations. From this database created, we will achieve statistics analysis. 
+We will realize that by taking datas from **[DBpedia](https://www.dbpedia.org/)**, **[Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page)** and **[BnF Data](https://data.bnf.fr/)** then merge them. The final goal is obtain a database on these populations. From this database created, we will achieve statistics analysis. 
 
 ## About this repository
 
