@@ -1,4 +1,4 @@
-# Economists_Jurists
+# Economists and Jurists
 
 "Economists and jurists" is a project of prosoprographical study of economists and jurists from XIXth century to now. 
 
