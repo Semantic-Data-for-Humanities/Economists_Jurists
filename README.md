@@ -1,3 +1,5 @@
+[![Licence : GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+
 # Economists and Jurists
 
 "Economists and jurists" is a project of prosoprographical study of economists and jurists from XIXth century to now. 
