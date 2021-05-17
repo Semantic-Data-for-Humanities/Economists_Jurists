@@ -18,31 +18,24 @@ a {
     text-decoration: none;
     color: #999;
 }
-a:hover {
-    text-decoration: underline;
-}
 
 h1 {
     font-size: 40px;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 		text-align: center;
 }
+h2 {
+    font-size: 25px;
+    font-family:'Arial', 'Sans-Serif';
+}
 
 p {
     font-size: 1.2em ;
     line-height: 1.4em;
     color: black;
+    font-family:'Helvetica';
 }
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: 0.9em;
-}
-
-ul.posts {
-    margin: 20px auto 40px;
-    font-size: 1.5em;
-}
-
-ul.posts li {
-    list-style: none;
 }
