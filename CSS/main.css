@@ -35,6 +35,24 @@ p {
     color: black;
     font-family:'Helvetica';
 }
+blockquote {
+    margin: 0;
+}
+
+blockquote p {
+    padding: 15px;
+    background: #eee;
+    border-radius: 5px;
+}
+
+blockquote p::before {
+    content: '\201C';
+}
+
+blockquote p::after {
+    content: '\201D';
+}
+
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: 0.9em;
