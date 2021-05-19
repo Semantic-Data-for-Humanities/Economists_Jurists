@@ -50,7 +50,10 @@ blockquote p::before {
 }
 
 blockquote p::after {
-    content: '\201D';
+    content: '\201D'
+}
+figcaption {
+  font-family:'Helvetica';
 }
 
 footer {
