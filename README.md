@@ -15,10 +15,3 @@ In the folder Notebooks, you can find:
 * The **[merge](https://github.com/Semantic-Data-for-Humanities/Economists_Jurists/tree/development/Notebooks/Merge)** between the differents database
 
 * The **[statistic analysis](https://github.com/Semantic-Data-for-Humanities/Economists_Jurists/tree/development/Notebooks/Statistics_Analysis)** 
-
-
--------------- 
-
-## Wiki
-
-If you want to know more about the project, you can go to the **[wiki](https://github.com/Semantic-Data-for-Humanities/Economists_Jurists/wiki|wiki)**.
