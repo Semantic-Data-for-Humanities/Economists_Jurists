@@ -8,12 +8,10 @@ This project will be carried out using the data made available on the **[DBpedia
 
 ## About this repository
 
-In this repository, you will find all notebooks realized with Python language. 
+In this repository, you will find all kernels realized with Python langage and the development of our project. 
 
-## 
+In the folder Notebooks, you can find: 
 
--------------- 
+* The **[merge](https://github.com/Semantic-Data-for-Humanities/Economists_Jurists/tree/development/Notebooks/Merge)** between the differents database
 
-## Wiki
-
-If you want to know more about this project, you can go to the **[wiki](https://github.com/Semantic-Data-for-Humanities/Economists_Jurists/wiki)**.
+* The **[statistic analysis](https://github.com/Semantic-Data-for-Humanities/Economists_Jurists/tree/development/Notebooks/Statistics_Analysis)** 
