@@ -14,4 +14,4 @@ In the folder Notebooks, you can find:
 
 * The **[merge](https://github.com/Semantic-Data-for-Humanities/Economists_Jurists/tree/development/Notebooks/Merge)** between the differents database
 
-* The **[statistic analysis](https://github.com/Semantic-Data-for-Humanities/Economists_Jurists/tree/development/Notebooks/Statistics_Analysis)** 
+* The **[statistical analysis](https://github.com/Semantic-Data-for-Humanities/Economists_Jurists/tree/development/Notebooks/Statistics_Analysis)** 
