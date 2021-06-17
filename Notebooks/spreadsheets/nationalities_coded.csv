@@ -27,7 +27,7 @@ Austria-Hungary|1079|Austr|Europe
 Greece|1074|Greec|Europe
 Socialist Federal Republic of Yugoslavia|1027|Socia|Europe
 Mexico|1023|Mexic|North Am.
-Russian Empire|1016|Russi|uncoded
+Russian Empire|1016|Russi|Europe
 Australia|990|Austr|Oceania
 India|956|India|Asia
 Israel|956|Israe|Middle East
@@ -126,8 +126,8 @@ Bosnia and Herzegovina|41|Bosni|Europe
 Irish Free State|40|Irish|Europe
 Trinidad and Tobago|40|Trini|Central Am.
 Algeria|39|Alger|Africa
-Russian Socialist Federative Soviet Republic|39|Russi|uncoded
-Russian Soviet Federative Socialist Republic|38|Russi|uncoded
+Russian Socialist Federative Soviet Republic|39|Russi|Europe
+Russian Soviet Federative Socialist Republic|38|Russi|Europe
 Democratic Republic of the Congo|37|Democ|Africa
 Malta|37|Malta|Europe
 Jordan|34|Jorda|Middle East
@@ -174,7 +174,7 @@ Kingdom of Bavaria|18|Kingd|Europe
 Mali|18|Mali|Africa
 Niger|18|Niger|Africa
 Polish–Lithuanian Commonwealth|18|Polis|Europe
-Kingdom of Hawaiʻi|17|Kingd|uncoded
+Kingdom of Hawaiʻi|17|Kingd|North Am.
 Nepal|17|Nepal|Asia
 Ukrainian People's Republic|17|Ukrai|Europe
 first Syrian Republic|17|first|Middle East
@@ -186,7 +186,7 @@ San Marino|16|San M|Europe
 Federal People's Republic of Yugoslavia|15|Feder|Europe
 Guyana|15|Guyan|South Am.
 Iraqi Republic (1958–68)|15|Iraqi|Middle East
-Russian Republic|15|Russi|uncoded
+Russian Republic|15|Russi|Europe
 Afghanistan|14|Afgha|Asia
 Democratic Republic of Georgia|14|Democ|uncoded
 Mauritania|14|Mauri|Africa
@@ -209,7 +209,7 @@ Ukrainian Soviet Socialist Republic|12|Ukrai|Europe
 Mongolia|11|Mongo|Asia
 Arab Kingdom of Syria|10|Arab|Middle East
 Byelorussian Soviet Socialist Republic|10|Byelo|Europe
-Gibraltar|10|Gibra|uncoded
+Gibraltar|10|Gibra|Europe
 Mauritius|10|Mauri|Africa
 Montenegro|10|Monte|Europe
 Papua New Guinea|10|Papua|Oceania
@@ -242,10 +242,10 @@ Federal Republic of Yugoslavia|7|Feder|Europe
 Federal State of Austria|7|Feder|Europe
 First Republic of Austria|7|First|Europe
 Principality of Serbia|7|Princ|Europe
-Republic of Artsakh|7|Repub|uncoded
+Republic of Artsakh|7|Repub|Asia
 Republic of Egypt (1953–1958)|7|Repub|Africa
 Scotland|7|Scotl|Europe
-Serbia and Montenegro|7|Serbi|uncoded
+Serbia and Montenegro|7|Serbi|Europe
 Taiwan under Japanese rule|7|Taiwa|Asia
 Tonga|7|Tonga|Oceania
 Congress Poland|6|Congr|Europe
@@ -292,7 +292,7 @@ Batavian Republic|3|Batav|Europe
 Bremen|3|Breme|Europe
 Cambodia|3|Cambo|Asia
 Federal Republic of Central America|3|Feder|Central Am.
-First Republic of Armenia|3|First|uncoded
+First Republic of Armenia|3|First|Asia
 French Third Republic|3|Frenc|Europe
 Gabon|3|Gabon|Africa
 Grand Duchy of Hesse|3|Grand|Europe
@@ -308,13 +308,13 @@ Principality of Lippe|3|Princ|Europe
 Republic of New Granada|3|Repub|South Am.
 Rhodesia|3|Rhode|Africa
 Slovak State (1939-1945)|3|Slova|Europe
-Solomon Islands|3|Solom|uncoded
+Solomon Islands|3|Solom|Oceania
 South Sudan|3|South|Africa
 State of Slovenes, Croats and Serbs|3|State|Europe
 Sultanate of Egypt|3|Sulta|Africa
 São Tomé and Príncipe|3|São T|Africa
 Vanuatu|3|Vanua|Oceania
-Alash Autonomy|2|Alash|uncoded
+Alash Autonomy|2|Alash|Asia
 Azerbaijan Democratic Republic|2|Azerb|Asia
 Belarusian People's Republic|2|Belar|Europe
 Brazilians|2|Brazi|South Am.
@@ -336,8 +336,8 @@ Electorate of Hesse|2|Elect|Europe
 Empire of Brazil|2|Empir|South Am.
 First Czechoslovak Republic|2|First|Europe
 Gran Colombia|2|Gran|South Am.
-Granadine Confederation|2|Grana|uncoded
-Greenland|2|Green|uncoded
+Granadine Confederation|2|Grana|South Am.
+Greenland|2|Green|North Am.
 Guam|2|Guam|Asia
 Guinea-Bissau|2|Guine|Africa
 Jersey|2|Jerse|Europe
