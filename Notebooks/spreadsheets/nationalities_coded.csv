@@ -43,14 +43,14 @@ Denmark|669|Denma|Europe
 German Reich|592|Germa|Europe
 Ukraine|540|Ukrai|Europe
 Kingdom of Yugoslavia|523|Kingd|Europe
-Dominion of India|518|Domin|Europe
+Dominion of India|518|Domin|Asia
 Czech Republic|500|Czech|Europe
 New Zealand|491|New Z|Oceania
 Portugal|479|Portu|Europe
-Uruguay|401|Urugu|Europe
+Uruguay|401|Urugu|South Am.
 Bulgaria|395|Bulga|Europe
 German Empire|388|Germa|Europe
-People's Republic of China|371|Peopl|Europe
+People's Republic of China|371|Peopl|Asia
 Lithuania|354|Lithu|Europe
 Austrian Empire|347|Austr|Europe
 Venezuela|320|Venez|South Am.
@@ -66,7 +66,7 @@ Ecuador|209|Ecuad|South Am.
 Costa Rica|199|Costa|Central Am.
 East Germany|192|East|Europe
 Ireland|191|Irela|Europe
-Cyprus|187|Cypru|Europe
+Cyprus|187|Cypru|Middle East
 Indonesia|184|Indon|Asia
 Iran|182|Iran|Middle East
 Kingdom of Serbs, Croats and Slovenes|182|Kingd|Europe
@@ -110,7 +110,7 @@ Yugoslavia|78|Yugos|Europe
 Albania|77|Alban|Europe
 Guatemala|71|Guate|Central Am.
 Singapore|69|Singa|Asia
-Georgia|68|Georg|uncoded
+Georgia|68|Georg|Europe
 Azerbaijan|63|Azerb|Asia
 State of Palestine|63|State|Middle East
 Kenya|62|Kenya|Africa
@@ -188,7 +188,7 @@ Guyana|15|Guyan|South Am.
 Iraqi Republic (1958–68)|15|Iraqi|Middle East
 Russian Republic|15|Russi|Europe
 Afghanistan|14|Afgha|Asia
-Democratic Republic of Georgia|14|Democ|uncoded
+Democratic Republic of Georgia|14|Democ|Europe
 Mauritania|14|Mauri|Africa
 United Arab Republic|14|Unite|Middle East
 United Principalities|14|Unite|Europe
@@ -263,7 +263,7 @@ Protectorate of Bohemia and Moravia|6|Prote|Europe
 Qatar|6|Qatar|Middle East
 Saint Kitts and Nevis|6|Saint|Central Am.
 Tajikistan|6|Tajik|Asia
-Turkish Republic of Northern Cyprus|6|Turki|uncoded
+Turkish Republic of Northern Cyprus|6|Turki|Middle East
 Ukrainian State|6|Ukrai|Europe
 Antigua and Barbuda|5|Antig|Central Am.
 Bahrain|5|Bahra|Middle East
@@ -355,10 +355,10 @@ Republic of Genova|2|Repub|Europe
 Republic of Hawaii|2|Repub|North Am.
 Republic of Texas|2|Repub|North Am.
 Saar Protectorate|2|Saar|Europe
-Socialist Soviet Republic Of Georgia|2|Socia|uncoded
+Socialist Soviet Republic Of Georgia|2|Socia|Europe
 Spanish Empire|2|Spani|Europe
 Surinam|2|Surin|South Am.
-Sweden-Finland|2|Swede|uncoded
+Sweden-Finland|2|Swede|Europe
 Third Reich|2|Third|Europe
 Transcaucasian Democratic Federative Republic|2|Trans|Europe
 Transylvania|2|Trans|Europe
@@ -366,8 +366,8 @@ Turkmenistan|2|Turkm|Asia
 Union of South Africa|2|Union|Africa
 United Arab Emirates|2|Unite|Middle East
 United States of Colombia|2|Unite|South Am.
-Abkhazia|1|Abkha|uncoded
-Armenians|1|Armen|uncoded
+Abkhazia|1|Abkha|Europe
+Armenians|1|Armen|Asia
 Aruba|1|Aruba|Central Am.
 Belgian Congo|1|Belgi|Africa
 Belgians|1|Belgi|Europe
@@ -380,7 +380,7 @@ British National (Overseas)|1|Briti|uncoded
 Byblos|1|Byblo|uncoded
 Captaincy General of Cuba|1|Capta|Central Am.
 Carpatho-Ukraine|1|Carpa|Europe
-Chechen Republic of Ichkeria|1|Chech|uncoded
+Chechen Republic of Ichkeria|1|Chech|Asia
 Cisalpine Republic|1|Cisal|Europe
 Colombians|1|Colom|North Am.
 Colonial Nigeria|1|Colon|Africa
@@ -390,7 +390,7 @@ Cretan State|1|Creta|Europe
 Czech Silesia|1|Czech|Europe
 Czech and Slovak Federal Republic|1|Czech|Europe
 Czechoslovak Socialist Republic|1|Czech|Europe
-Denmark-Norway|1|Denma|uncoded
+Denmark-Norway|1|Denma|Europe
 Dholpur State|1|Dholp|Asia
 Duchy of Berg|1|Duchy|Europe
 Duchy of Brunswick-Lüneburg|1|Duchy|Europe
@@ -429,25 +429,25 @@ Kazakh Soviet Socialist Republic|1|Kazak|Asia
 Khedivate of Egypt|1|Khedi|Africa
 Kingdom of Afghanistan|1|Kingd|Asia
 Kingdom of Araucanía and Patagonia|1|Kingd|South Am.
-Kingdom of Hejaz|1|Kingd|Europe
+Kingdom of Hejaz|1|Kingd|Middle East
 Kingdom of Holland|1|Kingd|Europe
 Kingdom of Nejd and Hejaz|1|Kingd|Middle East
 Kingdom of Poland|1|Kingd|Europe
 Kiribati|1|Kirib|Oceania
 Korean Empire|1|Korea|Asia
-Kuban People's Republic|1|Kuban|uncoded
+Kuban People's Republic|1|Kuban|Europe
 Landgraviate of Hesse-Kassel|1|Landg|Europe
 Laos|1|Laos|Africa
-Liberland|1|Liber|uncoded
-Luhansk People's Republic|1|Luhan|uncoded
+Liberland|1|Liber|Europe
+Luhansk People's Republic|1|Luhan|Europe
 Mali Federation|1|Mali|Africa
-Manchukuo|1|Manch|uncoded
+Manchukuo|1|Manch|Asia
 Moldavian Democratic Republic|1|Molda|Europe
 Muscat and Oman|1|Musca|Middle East
 Nassau-Saarbrücken|1|Nassa|Europe
 Nauru|1|Nauru|Oceania
 Northern Ireland|1|North|Europe
-Oaxaca|1|Oaxac|uncoded
+Oaxaca|1|Oaxac|Central Am.
 Orange Free State|1|Orang|Africa
 Orange River Colony|1|Orang|Africa
 Palestinian territories|1|Pales|Middle East
@@ -458,9 +458,9 @@ Principality of Anhalt-Zerbst|1|Princ|Europe
 Principality of Transylvania|1|Princ|Europe
 Provincia Libre de Guayaquil|1|Provi|South Am.
 Q13202801|1|Q1320|uncoded
-Q8770091|1|Q8770|uncoded
+Q8770091|1|Q8770|Central Am.
 Qajar Iran|1|Qajar|Middle East
-Republic of Afghanistan|1|Repub|uncoded
+Republic of Afghanistan|1|Repub|Asia
 Republic of Bosnia and Herzegovina|1|Repub|Europe
 Republic of Central Lithuania|1|Repub|Europe
 Republic of San Marco|1|Repub|Europe
@@ -472,32 +472,30 @@ Second Czechoslovak Republic|1|Secon|Europe
 Siam|1|Siam|Asia
 Socialist Republic of Macedonia|1|Socia|Europe
 South African Republic|1|South|Africa
-South Ossetia|1|South|uncoded
+South Ossetia|1|South|Europe
 Southern Netherlands|1|South|Europe
 Sovereign Principality of the United Netherlands|1|Sover|Europe
 Spain under the Restoration|1|Spain|Europe
-Spaniards|1|Spani|uncoded
+Spaniards|1|Spani|Europe
 State of Aleppo|1|State|Middle East
 State of Venezuela|1|State|South Am.
 Sudanese|1|Sudan|Africa
 Sultanate of Nejd|1|Sulta|Middle East
 Taiwan under Qing Dynasty rule|1|Taiwa|Asia
 Third Czechoslovak Republic|1|Third|Europe
-Ticino|1|Ticin|uncoded
-Transcaucasian Commissariat|1|Trans|uncoded
+Ticino|1|Ticin|Europe
+Transcaucasian Commissariat|1|Trans|Europe
 Transcaucasian Socialist Federative Soviet Republic|1|Trans|uncoded
-Travancore|1|Trava|uncoded
-Turkestan Autonomy|1|Turke|uncoded
+Travancore|1|Trava|Asia
+Turkestan Autonomy|1|Turke|Asia
 Tuvalu|1|Tuval|Oceania
-Union between Sweden and Norway|1|Union|uncoded
+Union between Sweden and Norway|1|Union|Europe
 United Kingdom of Portugal, Brazil and the Algarves|1|Unite|uncoded
 United Kingdom of the Netherlands|1|Unite|Europe
-United States Virgin Islands|1|Unite|uncoded
+United States Virgin Islands|1|Unite|Central Am.
 Vatican City|1|Vatic|Europe
-Venezolano|1|Venez|uncoded
-Venezuelodesmus decui|1|Venez|uncoded
-Viceroyalty of New Granada|1|Vicer|uncoded
-Wallachia|1|Walla|uncoded
+Viceroyalty of New Granada|1|Vicer|South Am.
+Wallachia|1|Walla|Europe
 Western Moldavia|1|Weste|Europe
 Württemberg|1|Württ|Europe
 Zaire|1|Zaire|Africa
