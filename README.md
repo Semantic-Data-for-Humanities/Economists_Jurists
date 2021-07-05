@@ -1,4 +1,5 @@
 [![Licence : GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Semantic-Data-for-Humanities/Economists_Jurists/7253bd1f11f52224f75cbb12299e679601a420b8)
 
 # Economists and Jurists
 
