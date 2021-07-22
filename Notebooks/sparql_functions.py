@@ -1,10 +1,8 @@
-
 ### sparql_functions : some useful functions using SPARQLwrapper
 
-from SPARQLWrapper import SPARQLWrapper, SPARQLWrapper2, JSON, TURTLE, XML, RDFXML
+#### These functions are created by Francesco Beretta
 
-
-
+from SPARQLWrapper import SPARQLWrapper, SPARQLWrapper2, JSON
 
 ## Fonction qui exécute la requête et renvoit le résultat
 
@@ -21,9 +19,7 @@ def get_json_sparql_result(endpoint,query):
         print(e)
     else:
         return rc
-    
-    
-    
+        
 ## Fonction générique permettant de transformer en liste les résultats d'une requête    
 # NB : la fonction récupère directement le nom des variables du résultat
 # NB2: cette fonction et le suivantes présupposent une structure homogène du résultat JSON
