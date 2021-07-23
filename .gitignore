@@ -4,3 +4,6 @@ Notebooks/Merge/data/sparql_queries_20210527_092846.sqlite
 Notebooks/__init__.py
 *.pyc
 *.csv#
+Notebooks/spreadsheets/Network/network_educatedAt.csv
+Notebooks/spreadsheets/Network/network_organizations.csv
+Notebooks/spreadsheets/dataframe_properties.csv
