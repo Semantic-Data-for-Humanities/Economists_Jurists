@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+  <html>
+    <head>
+      <meta charset ="UTF-8">
+      <link rel="stylesheet" type="text/css" href="CSS/main.css">
+        <title>Notebooks</title>
+    </head>
+    <boby>
+    <header>
+      <h1>Notebooks</h1>
+      <nav>
+      <ul>
+          <li><a href="index.html">Home</a></li>
+          <li><a href="about.html">About</a></li>
+          <li class="active"><a href="notebooks.html">Notebooks</a></li>
+     </ul>
+     </nav>
+    </header>
+    <body>
+      <p> In this section, we will present the differents notebooks we made. The notebooks are mainly dedicated to the realisation of analysis.
+      </p>
+      <h2> Properties analysis
+      </h2>
+      <p>
+      The analysis is the first step necessary to the statistical study.
+      It allows assessing the properties interesting. The level of interest is duple.
+      The properties must be present in a sufficient proportion.
+      And the individuals must share enough properties to study them together.
+     <br/>
+     <br/>
+      The entire analysis is available on this <a href="https://github.com/Semantic-Data-for-Humanities/Economists_Jurists/blob/main/Notebooks/Sounding_properties_Wikidata.ipynb">notebook</a>.
+      </p>
+      <h2> Nationalities analysis
+      </h2>
+      <p>
+        The nationalities study is realized with the "country of citizenship" (P27) on Wikidata.
+        The main problem is these countries evolve in time (boundaries change, it can have regime changes).
+        Their number is very important.Therefore, it is hard to study them.
+        The solution is to aggregate the countries by continent or region.
+        We make bivariate analyses with gender and profession.  Also, we study evolution in time.
+        <br/>
+        <br/>
+        The entire analysis is available on this <a href="https://github.com/Semantic-Data-for-Humanities/Economists_Jurists/blob/main/Notebooks/Analysis_nationalities_wikidata.ipynb">notebook</a>.
+      </p>
+      <h2> Occupations analysis
+      </h2>
+      <p>
+      In the same way, it is possible to produce an occupations' analysis.
+      The occupations are the other occupations that "economist" and "jurist".
+      It is possible to the differences between the both.
+      It is also possible to see the evolution in time and the gender differences.
+      <br/>
+      <br/>
+      The entire analysis is available on this <a href="https://github.com/Semantic-Data-for-Humanities/Economists_Jurists/blob/main/Notebooks/Analysis_occupations.ipynb">notebook</a>.
+      </p>
+      <h2> Multiple Correspondance Analysis
+      </h2>
+      <p>
+      The multiple correspondence analysis (MCA) is a method allowing to study of several categorical variables at the same time.
+      This is possible by encoding variables as quantitative variables.
+      This is to say each modality is transformed as binary data.
+      Then, we can see the proximities between the modalities and the proximities between the individuals.
+      <br/>
+      <br/>
+      To realise the MCA with Python, this <a href="https://github.com/Semantic-Data-for-Humanities/Economists_Jurists/blob/main/Notebooks/Analysis_MCA.ipynb">notebook</a> is available.
+      </p>
+      <h2> Analysis with maps
+      </h2>
+     <p>
+       Another method to study individuals are the maps. It is feasible with Python. We use two methods.
+       The first one use the geographical coordinates.
+       It puts on a map the individuals with the same geographical coordinates.
+       It is possible to add interactivity by displaying maps on an HTML page.
+       The other method uses polygons (geographic shapes with several variable vertices).
+       With these polygons, we can draw the shapes of the continents and display them on a map.
+     <br/>
+     <br/>
+     To realise the maps with Python, this <a href="https://github.com/Semantic-Data-for-Humanities/Economists_Jurists/blob/main/Notebooks/Analysis_maps.ipynb">notebook</a> is available.
+     </p>
+     <h2> Network analysis
+     </h2>
+    <p>
+      The last method is the network analysis. In our study, the network allow to see links between individuals and between universities.
+      A link between two individuals is created if they was in the same higher education facility at the same period.
+      And two universities are linked is a individual has been in these two establishments.
+     <br/>
+     <br/>
+      In this network analysis, we needed to slice to notebooks in two files (the size authorized by github would be exceeded).
+      In the <a href="https://github.com/Semantic-Data-for-Humanities/Economists_Jurists/blob/main/Notebooks/Analysis_network_educatedAt_part1.ipynb">first part</a>, you will find how create the relations by a SQLite database.
+      And in the <a href="https://github.com/Semantic-Data-for-Humanities/Economists_Jurists/blob/main/Notebooks/Analysis_network_educatedAt_Script_part2.ipynb">second part</a>, there is the network analysis with the networkx library.
+    </body>
+    <footer>
+    </footer>
+  </html>
